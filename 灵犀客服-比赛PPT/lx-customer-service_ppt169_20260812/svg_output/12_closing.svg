@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending" font-family="微软雅黑, PingFang SC, Noto Sans SC, Inter, sans-serif">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F7F8FA" data-pptx-role="background"/>
+
+  <g id="left-panel" data-pptx-bounds="0 0 640 720">
+    <rect x="0" y="0" width="640" height="720" fill="#002FA7"/>
+    <text x="48" y="90" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#FFFFFF">MANIFESTO · 12 / 12</text>
+    <text x="48" y="300" font-size="44" font-weight="700" letter-spacing="1" fill="#FFFFFF">客服自主闭环，</text>
+    <text x="48" y="370" font-size="44" font-weight="700" letter-spacing="1" fill="#FFFFFF">从一条工单开始</text>
+    <text x="48" y="460" font-size="22" font-weight="400" fill="#FFFFFF">基于 AgentTeams 的 6 智能体客服闭环，</text>
+    <text x="48" y="500" font-size="22" font-weight="400" fill="#FFFFFF">已跑通端到端流程，知识沉淀持续反哺。</text>
+    <text x="48" y="660" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#FFFFFF">GOAI 智能客服自主闭环赛道 · 2026.08</text>
+  </g>
+
+  <g id="right-panel" data-pptx-bounds="640 120 640 600">
+    <text x="672" y="170" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="4" fill="#002FA7">TAKEAWAYS</text>
+    <text x="672" y="260" font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="500" fill="#002FA7">01</text>
+    <text x="760" y="260" font-size="22" font-weight="500" fill="#1A1D24">多 Agent 闭环已跑通</text>
+    <text x="760" y="296" font-size="18" fill="#737373">测试工单端到端验证成功，可运行 Demo，</text>
+    <text x="760" y="322" font-size="18" fill="#737373">复赛交付完整工程代码包。</text>
+    <line x1="672" y1="348" x2="1216" y2="348" stroke="#B8C4D6" stroke-width="1"/>
+    <text x="672" y="408" font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="500" fill="#002FA7">02</text>
+    <text x="760" y="408" font-size="22" font-weight="500" fill="#1A1D24">全透明可干预可审计</text>
+    <text x="760" y="444" font-size="18" fill="#737373">Matrix 房间全程可见，人工审批与回滚机制</text>
+    <text x="760" y="470" font-size="18" fill="#737373">保障高风险操作安全。</text>
+    <line x1="672" y1="496" x2="1216" y2="496" stroke="#B8C4D6" stroke-width="1"/>
+    <text x="672" y="556" font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="500" fill="#002FA7">03</text>
+    <text x="760" y="556" font-size="22" font-weight="500" fill="#002FA7">知识沉淀反哺闭环</text>
+    <text x="760" y="592" font-size="18" fill="#737373">复盘 → FAQ → RAG 反哺下游 Agent，</text>
+    <text x="760" y="618" font-size="18" fill="#737373">系统越用越聪明，Skill 可市场化复用。</text>
+    <line x1="672" y1="644" x2="1216" y2="644" stroke="#002FA7" stroke-width="2"/>
+    <text x="1216" y="680" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">→ END</text>
+  </g>
+</svg>

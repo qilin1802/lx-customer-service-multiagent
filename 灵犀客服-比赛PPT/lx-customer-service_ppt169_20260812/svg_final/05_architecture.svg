@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="微软雅黑, PingFang SC, Noto Sans SC, Inter, sans-serif">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F7F8FA" data-pptx-role="background"/>
+  <rect id="accent-bar" x="0" y="0" width="12" height="720" fill="#002FA7" data-pptx-role="decoration"/>
+
+  <g id="header" data-pptx-bounds="64 44 1152 40">
+    <text x="64" y="70" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">ARCHITECTURE · 系统架构</text>
+    <text x="1216" y="70" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">05 / 12</text>
+  </g>
+
+  <g id="head" data-pptx-bounds="64 120 1152 140">
+    <text x="68" y="170" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="4" fill="#002FA7">AGENTTEAMS · MANAGER-WORKER</text>
+    <text x="64" y="240" font-size="44" font-weight="700" letter-spacing="1" fill="#1A1D24">四层架构，全链路闭环</text>
+  </g>
+
+  <g id="layer-input" data-pptx-bounds="64 300 360 110">
+    <rect x="64" y="300" width="360" height="110" fill="none" stroke="#002FA7" stroke-width="2"/>
+    <text x="88" y="335" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">LAYER 01 · 接入层</text>
+    <text x="88" y="370" font-size="22" font-weight="500" fill="#1A1D24">多渠道统一消息模型</text>
+    <text x="88" y="400" font-size="18" fill="#737373">cs-gather 同人归一化 · 去重合并</text>
+  </g>
+
+  <g id="layer-orch" data-pptx-bounds="448 300 384 110">
+    <rect x="448" y="300" width="384" height="110" fill="#002FA7"/>
+    <text x="472" y="335" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#FFFFFF">LAYER 02 · 编排层</text>
+    <text x="472" y="370" font-size="22" font-weight="500" fill="#FFFFFF">AgentTeams 编排</text>
+    <text x="472" y="400" font-size="18" fill="#FFFFFF">任务拆解 · Matrix 上下文传递 · 状态追踪</text>
+  </g>
+
+  <g id="layer-exec" data-pptx-bounds="856 300 360 110">
+    <rect x="856" y="300" width="360" height="110" fill="none" stroke="#002FA7" stroke-width="2"/>
+    <text x="880" y="335" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">LAYER 03 · 执行层</text>
+    <text x="880" y="370" font-size="22" font-weight="500" fill="#1A1D24">Skill + MCP + RAG</text>
+    <text x="880" y="400" font-size="18" fill="#737373">能力抽象 · 业务系统接入 · 决策支撑</text>
+  </g>
+
+  <g id="layer-feedback" data-pptx-bounds="256 440 768 100">
+    <rect x="256" y="440" width="768" height="100" fill="#EDEFF3"/>
+    <text x="280" y="478" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">LAYER 04 · 沉淀层</text>
+    <text x="280" y="512" font-size="22" font-weight="500" fill="#1A1D24">知识库回写 + 反馈回路</text>
+    <text x="280" y="534" font-size="18" fill="#737373">复盘 → FAQ 沉淀 → RAG 反哺识别与方案生成</text>
+  </g>
+
+  <g id="note" data-pptx-bounds="64 580 1152 90">
+    <text x="64" y="620" font-size="22" fill="#737373">设计基点：AgentTeams（HiClaw）Manager-Worker 双层架构 —— 角色编排、任务拆解、</text>
+    <text x="64" y="658" font-size="22" fill="#737373">上下文传递、协同执行、状态追踪均映射至框架能力</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="64 660 1152 30">
+    <text x="64" y="680" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">INPUT · ORCHESTRATION · EXECUTION · KNOWLEDGE</text>
+    <text x="1216" y="680" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">05 / 12</text>
+  </g>
+</svg>

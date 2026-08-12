@@ -1,0 +1,21 @@
+# opencode 本地配置
+.opencode/
+
+# ppt-master 工程临时产物
+**/live_preview/
+**/backup/
+**/notes/
+**/analysis/
+**/sources/
+**/templates/
+**/images/
+**/validation/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc

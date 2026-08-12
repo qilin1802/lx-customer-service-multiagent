@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="微软雅黑, PingFang SC, Noto Sans SC, Inter, sans-serif">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F7F8FA" data-pptx-role="background"/>
+  <rect id="accent-bar" x="0" y="0" width="12" height="720" fill="#002FA7" data-pptx-role="decoration"/>
+
+  <g id="header" data-pptx-bounds="64 44 1152 40">
+    <text x="64" y="70" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">TOOLING · MCP / RAG / OBSERVABILITY</text>
+    <text x="1216" y="70" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">10 / 12</text>
+  </g>
+
+  <g id="head" data-pptx-bounds="64 120 1152 130">
+    <text x="68" y="170" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="4" fill="#002FA7">INTEGRATION PLANNING</text>
+    <text x="64" y="240" font-size="44" font-weight="700" letter-spacing="1" fill="#1A1D24">工具连接与能力规划</text>
+  </g>
+
+  <g id="col-mcp" data-pptx-bounds="64 300 368 300">
+    <rect x="64" y="300" width="368" height="300" fill="#EDEFF3"/>
+    <use data-icon="tabler-outline/api" x="88" y="325" width="40" height="40" fill="#002FA7" stroke-width="2"/>
+    <text x="144" y="352" font-size="24" font-weight="500" fill="#1A1D24">MCP · 工具连接层</text>
+    <text x="88" y="400" font-size="20" fill="#1A1D24">业务系统统一接入协议</text>
+    <text x="88" y="432" font-size="18" fill="#737373">· 订单 / 退款 / 账户 API → MCP Server</text>
+    <text x="88" y="458" font-size="18" fill="#737373">· 经 Higress 网关统一鉴权路由</text>
+    <text x="88" y="484" font-size="18" fill="#737373">· 契约含 Schema / 幂等 / 审计 / 降级</text>
+    <rect x="88" y="516" width="320" height="56" fill="#002FA7"/>
+    <text x="248" y="552" text-anchor="middle" font-size="20" font-weight="500" fill="#FFFFFF">迁移仅需协议适配</text>
+  </g>
+
+  <g id="col-rag" data-pptx-bounds="456 300 368 300">
+    <rect x="456" y="300" width="368" height="300" fill="#EDEFF3"/>
+    <use data-icon="tabler-outline/database" x="480" y="325" width="40" height="40" fill="#002FA7" stroke-width="2"/>
+    <text x="536" y="352" font-size="24" font-weight="500" fill="#1A1D24">RAG · 上下文增强</text>
+    <text x="480" y="400" font-size="20" fill="#1A1D24">知识库支撑方案决策</text>
+    <text x="480" y="432" font-size="18" fill="#737373">· 知识库 RAG 检索历史案例</text>
+    <text x="480" y="458" font-size="18" fill="#737373">· 4 选 2 已全覆盖：知识库 RAG</text>
+    <text x="480" y="484" font-size="18" fill="#737373">+ 共享状态 + Agent 记忆 + 轨迹</text>
+    <rect x="480" y="516" width="320" height="56" fill="#002FA7"/>
+    <text x="640" y="552" text-anchor="middle" font-size="20" font-weight="500" fill="#FFFFFF">上下文能力全覆盖</text>
+  </g>
+
+  <g id="col-obs" data-pptx-bounds="848 300 368 300">
+    <rect x="848" y="300" width="368" height="300" fill="#EDEFF3"/>
+    <use data-icon="tabler-outline/eye" x="872" y="325" width="40" height="40" fill="#002FA7" stroke-width="2"/>
+    <text x="928" y="352" font-size="24" font-weight="500" fill="#1A1D24">可观测 · 全链路</text>
+    <text x="872" y="400" font-size="20" fill="#1A1D24">Trace / Log / Metrics</text>
+    <text x="872" y="432" font-size="18" fill="#737373">· Matrix 房间全透明（已实现）</text>
+    <text x="872" y="458" font-size="18" fill="#737373">· 控制器结构化日志（已实现）</text>
+    <text x="872" y="484" font-size="18" fill="#737373">· 规划 AgentLoop 推理轨迹</text>
+    <rect x="872" y="516" width="320" height="56" fill="#002FA7"/>
+    <text x="1032" y="552" text-anchor="middle" font-size="20" font-weight="500" fill="#FFFFFF">已覆盖 Log + 轨迹</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="64 660 1152 30">
+    <text x="64" y="680" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">MCP · RAG · OBSERVABILITY</text>
+    <text x="1216" y="680" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">10 / 12</text>
+  </g>
+</svg>

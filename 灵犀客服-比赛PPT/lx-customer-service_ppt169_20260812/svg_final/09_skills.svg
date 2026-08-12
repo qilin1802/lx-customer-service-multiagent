@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="微软雅黑, PingFang SC, Noto Sans SC, Inter, sans-serif">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F7F8FA" data-pptx-role="background"/>
+  <rect id="accent-bar" x="0" y="0" width="12" height="720" fill="#002FA7" data-pptx-role="decoration"/>
+
+  <g id="header" data-pptx-bounds="64 44 1152 40">
+    <text x="64" y="70" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">SKILL LAYER · 能力抽象层</text>
+    <text x="1216" y="70" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">09 / 12</text>
+  </g>
+
+  <g id="head" data-pptx-bounds="64 120 1152 130">
+    <text x="68" y="170" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="4" fill="#002FA7">CORE SKILLS · 9 ELEMENTS</text>
+    <text x="64" y="240" font-size="44" font-weight="700" letter-spacing="1" fill="#1A1D24">Skill 即能力抽象层</text>
+  </g>
+
+  <g id="skill-cards" data-pptx-bounds="64 300 1152 300">
+    <rect x="64" y="300" width="368" height="140" fill="#EDEFF3"/>
+    <text x="88" y="340" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">S01</text>
+    <text x="88" y="378" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">ticket-aggregation</text>
+    <text x="88" y="412" font-size="20" fill="#1A1D24">工单聚合去重</text>
+    <text x="88" y="434" font-size="18" fill="#737373">→ cs-gather 专属，产出标准工单</text>
+
+    <rect x="456" y="300" width="368" height="140" fill="#EDEFF3"/>
+    <text x="480" y="340" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">S02</text>
+    <text x="480" y="378" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">intent-classification</text>
+    <text x="480" y="412" font-size="20" fill="#1A1D24">意图识别分级</text>
+    <text x="480" y="434" font-size="18" fill="#737373">→ cs-intent 专属，JSON 结构化输出</text>
+
+    <rect x="848" y="300" width="368" height="140" fill="#EDEFF3"/>
+    <text x="872" y="340" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">S03</text>
+    <text x="872" y="378" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">solution-generation</text>
+    <text x="872" y="412" font-size="20" fill="#1A1D24">方案生成</text>
+    <text x="872" y="434" font-size="18" fill="#737373">→ cs-handler，RAG 检索 + 审批等级</text>
+
+    <rect x="64" y="460" width="368" height="140" fill="#EDEFF3"/>
+    <text x="88" y="500" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">S04</text>
+    <text x="88" y="538" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">operation-execution</text>
+    <text x="88" y="572" font-size="20" fill="#1A1D24">业务操作执行</text>
+    <text x="88" y="594" font-size="18" fill="#737373">→ 幂等控制，失败重试，可回滚</text>
+
+    <rect x="456" y="460" width="368" height="140" fill="#EDEFF3"/>
+    <text x="480" y="500" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">S05</text>
+    <text x="480" y="538" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">result-verification</text>
+    <text x="480" y="572" font-size="20" fill="#1A1D24">结果核验确认</text>
+    <text x="480" y="594" font-size="18" fill="#737373">→ cs-verify，查询比对 + 满意度</text>
+
+    <rect x="848" y="460" width="368" height="140" fill="#002FA7"/>
+    <text x="872" y="500" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#FFFFFF">S06</text>
+    <text x="872" y="538" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#FFFFFF">knowledge-distillation</text>
+    <text x="872" y="572" font-size="20" fill="#FFFFFF">案例复盘沉淀</text>
+    <text x="872" y="594" font-size="18" fill="#FFFFFF">→ 复盘报告 · FAQ · 知识回写</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="64 660 1152 30">
+    <text x="64" y="680" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">9 ELEMENTS: 名称/用途/输入输出/调用条件/依赖工具/失败处理/安全边界/复用价值/协同关系</text>
+    <text x="1216" y="680" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">09 / 12</text>
+  </g>
+</svg>

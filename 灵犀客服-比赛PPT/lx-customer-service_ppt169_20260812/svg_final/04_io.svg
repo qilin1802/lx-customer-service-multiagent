@@ -1,0 +1,50 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="微软雅黑, PingFang SC, Noto Sans SC, Inter, sans-serif">
+  <defs>
+    <marker id="arrowhead" orient="auto" markerWidth="10" markerHeight="8" refX="9" refY="4">
+      <polygon points="0 0, 10 4, 0 8" fill="#002FA7"/>
+    </marker>
+  </defs>
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F7F8FA" data-pptx-role="background"/>
+  <rect id="accent-bar" x="0" y="0" width="12" height="720" fill="#002FA7" data-pptx-role="decoration"/>
+
+  <g id="header" data-pptx-bounds="64 44 1152 40">
+    <text x="64" y="70" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">SCENARIO · 输入输出与可复制性</text>
+    <text x="1216" y="70" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">04 / 12</text>
+  </g>
+
+  <g id="head" data-pptx-bounds="64 120 1152 130">
+    <text x="68" y="170" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="4" fill="#002FA7">IO &amp; REPLICABILITY</text>
+    <text x="64" y="240" font-size="44" font-weight="700" letter-spacing="1" fill="#1A1D24">输入输出与行业可复制性</text>
+  </g>
+
+  <g id="io-flow" data-pptx-bounds="64 320 1152 200">
+    <rect x="64" y="360" width="280" height="140" fill="#EDEFF3"/>
+    <text x="204" y="405" text-anchor="middle" font-size="24" font-weight="500" fill="#002FA7">输入</text>
+    <text x="204" y="445" text-anchor="middle" font-size="22" fill="#1A1D24">多渠道消息</text>
+    <text x="204" y="481" text-anchor="middle" font-size="18" fill="#737373">邮件 / 在线客服 / 电话转写 / 社媒</text>
+
+    <line x1="344" y1="430" x2="430" y2="430" stroke="#002FA7" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+    <rect x="430" y="360" width="420" height="140" fill="#002FA7"/>
+    <text x="640" y="405" text-anchor="middle" font-size="24" font-weight="500" fill="#FFFFFF">6 Agent 闭环系统</text>
+    <text x="640" y="445" text-anchor="middle" font-size="22" fill="#FFFFFF">聚合 → 识别 → 执行 → 核验 → 复盘</text>
+    <text x="640" y="481" text-anchor="middle" font-size="18" fill="#FFFFFF">AgentTeams 编排 · Matrix 全透明</text>
+
+    <line x1="850" y1="430" x2="936" y2="430" stroke="#002FA7" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+    <rect x="936" y="360" width="280" height="140" fill="none" stroke="#002FA7" stroke-width="2"/>
+    <text x="1076" y="405" text-anchor="middle" font-size="24" font-weight="500" fill="#002FA7">输出</text>
+    <text x="1076" y="445" text-anchor="middle" font-size="22" fill="#1A1D24">已处理工单 + 满意度确认</text>
+    <text x="1076" y="481" text-anchor="middle" font-size="18" fill="#737373">+ 沉淀知识（FAQ / 处理规则）</text>
+  </g>
+
+  <g id="replicability" data-pptx-bounds="64 560 1152 100">
+    <text x="64" y="600" font-size="24" font-weight="500" fill="#1A1D24">行业可复制性：一个引擎，多行业</text>
+    <text x="64" y="648" font-size="22" fill="#737373">电商客服 · 运维工单 · 法律咨询 · 金融开户审核 —— 更换知识库与业务 API 即可复用同一套 Agent 编排</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="64 660 1152 30">
+    <text x="64" y="680" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">INPUT → SYSTEM → OUTPUT</text>
+    <text x="1216" y="680" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">04 / 12</text>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="微软雅黑, PingFang SC, Noto Sans SC, Inter, sans-serif">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F7F8FA" data-pptx-role="background"/>
+  <rect id="accent-bar" x="0" y="0" width="12" height="720" fill="#002FA7" data-pptx-role="decoration"/>
+
+  <g id="header" data-pptx-bounds="64 44 1152 40">
+    <text x="64" y="70" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">AGENT ROLES · 角色分工</text>
+    <text x="1216" y="70" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="2" fill="#737373">06 / 12</text>
+  </g>
+
+  <g id="head" data-pptx-bounds="64 120 1152 130">
+    <text x="68" y="170" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" letter-spacing="4" fill="#002FA7">SIX WORKERS · ONE TEAM</text>
+    <text x="64" y="240" font-size="44" font-weight="700" letter-spacing="1" fill="#1A1D24">6 个智能体，各司其职</text>
+  </g>
+
+  <g id="agent-cards" data-pptx-bounds="64 300 1152 340">
+    <rect x="64" y="300" width="368" height="150" fill="#EDEFF3"/>
+    <text x="88" y="340" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">01</text>
+    <text x="88" y="378" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">cs-gather</text>
+    <text x="88" y="412" font-size="20" fill="#1A1D24">会话聚合</text>
+    <text x="88" y="440" font-size="18" fill="#737373">多渠道接入 · 同人识别 · 工单去重</text>
+
+    <rect x="456" y="300" width="368" height="150" fill="#EDEFF3"/>
+    <text x="480" y="340" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">02</text>
+    <text x="480" y="378" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">cs-intent</text>
+    <text x="480" y="412" font-size="20" fill="#1A1D24">意图识别</text>
+    <text x="480" y="440" font-size="18" fill="#737373">分类分级 · 槽位抽取 · 紧急度 P0-P2</text>
+
+    <rect x="848" y="300" width="368" height="150" fill="#002FA7"/>
+    <text x="872" y="340" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#FFFFFF">03 ⭐ 团队长</text>
+    <text x="872" y="378" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#FFFFFF">cs-handler</text>
+    <text x="872" y="412" font-size="20" fill="#FFFFFF">方案执行</text>
+    <text x="872" y="440" font-size="18" fill="#FFFFFF">方案生成 · 业务执行 · 流程协调</text>
+
+    <rect x="64" y="474" width="368" height="150" fill="#EDEFF3"/>
+    <text x="88" y="514" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">04</text>
+    <text x="88" y="552" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">cs-approver</text>
+    <text x="88" y="586" font-size="20" fill="#1A1D24">审批把关</text>
+    <text x="88" y="614" font-size="18" fill="#737373">高风险审批 · 回滚 · 审计日志</text>
+
+    <rect x="456" y="474" width="368" height="150" fill="#EDEFF3"/>
+    <text x="480" y="514" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">05</text>
+    <text x="480" y="552" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">cs-verify</text>
+    <text x="480" y="586" font-size="20" fill="#1A1D24">结果核验</text>
+    <text x="480" y="614" font-size="18" fill="#737373">结果确认 · 满意度核验 · 升级处理</text>
+
+    <rect x="848" y="474" width="368" height="150" fill="#EDEFF3"/>
+    <text x="872" y="514" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#002FA7">06</text>
+    <text x="872" y="552" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="500" fill="#1A1D24">cs-review</text>
+    <text x="872" y="586" font-size="20" fill="#1A1D24">案例复盘</text>
+    <text x="872" y="614" font-size="18" fill="#737373">复盘报告 · FAQ 提炼 · 知识回写</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="64 660 1152 30">
+    <text x="64" y="680" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">EACH AGENT HAS A CLEAR IDENTITY</text>
+    <text x="1216" y="680" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#737373">06 / 12</text>
+  </g>
+</svg>
