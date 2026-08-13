@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="header" data-pptx-bounds="60 40 1160 100">
+    <text x="60" y="74" font-family="Microsoft YaHei" font-size="16" fill="#E8590C">第三章 · 多 Agent 协同设计</text>
+    <text x="60" y="122" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#3B2C24">6 Agent 接力，全程可审计</text>
+  </g>
+  <g id="agent-1" data-pptx-bounds="60 160 260 120">
+    <rect x="60" y="160" width="260" height="120" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/message" x="84" y="182" width="28" height="28" fill="#E8590C"/>
+    <text x="84" y="234" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">cs-gather</text>
+    <text x="84" y="262" font-family="Microsoft YaHei" font-size="16" fill="#8C7A6B">会话聚合</text>
+  </g>
+  <g id="agent-2" data-pptx-bounds="350 160 260 120">
+    <rect x="350" y="160" width="260" height="120" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/sparkles" x="374" y="182" width="28" height="28" fill="#E8590C"/>
+    <text x="374" y="234" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">cs-intent</text>
+    <text x="374" y="262" font-family="Microsoft YaHei" font-size="16" fill="#8C7A6B">意图分级</text>
+  </g>
+  <g id="agent-3" data-pptx-bounds="640 160 260 120">
+    <rect x="640" y="160" width="260" height="120" rx="12" fill="#E8590C"/>
+    <use data-icon="tabler-outline/tool" x="664" y="182" width="28" height="28" fill="#FFFFFF"/>
+    <text x="664" y="234" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#FFFFFF">cs-handler</text>
+    <text x="664" y="262" font-family="Microsoft YaHei" font-size="16" fill="#FFFFFF">方案执行 · 团队长</text>
+  </g>
+  <g id="agent-4" data-pptx-bounds="930 160 260 120">
+    <rect x="930" y="160" width="260" height="120" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/shield-check" x="954" y="182" width="28" height="28" fill="#E76F51"/>
+    <text x="954" y="234" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">cs-approver</text>
+    <text x="954" y="262" font-family="Microsoft YaHei" font-size="16" fill="#8C7A6B">审批把关</text>
+  </g>
+  <g id="agent-5" data-pptx-bounds="60 300 260 120">
+    <rect x="60" y="300" width="260" height="120" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/check" x="84" y="322" width="28" height="28" fill="#E8590C"/>
+    <text x="84" y="374" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">cs-verify</text>
+    <text x="84" y="402" font-family="Microsoft YaHei" font-size="16" fill="#8C7A6B">结果核验</text>
+  </g>
+  <g id="agent-6" data-pptx-bounds="350 300 260 120">
+    <rect x="350" y="300" width="260" height="120" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/refresh" x="374" y="322" width="28" height="28" fill="#E8590C"/>
+    <text x="374" y="374" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">cs-review</text>
+    <text x="374" y="402" font-family="Microsoft YaHei" font-size="16" fill="#8C7A6B">案例复盘</text>
+  </g>
+  <g id="evidence" data-pptx-bounds="640 300 550 120">
+    <rect x="640" y="300" width="550" height="120" rx="12" fill="#FDF4E7" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/file-text" x="668" y="322" width="28" height="28" fill="#E8590C"/>
+    <text x="668" y="374" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">每单 9 文件证据链</text>
+    <text x="668" y="402" font-family="Microsoft YaHei" font-size="16" fill="#8C7A6B">聚合 · 意图 · 方案 · 执行 · 审批 · 核验 · 复盘</text>
+  </g>
+  <g id="safety" data-pptx-bounds="60 460 1160 140">
+    <rect x="60" y="460" width="1160" height="140" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="90" y="504" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E76F51">安全边界与异常处理</text>
+    <text x="90" y="548" font-family="Microsoft YaHei" font-size="18" fill="#3B2C24">&gt;100 元强制人工审批 + 幂等防重复 + 可回滚</text>
+    <text x="90" y="580" font-family="Microsoft YaHei" font-size="18" fill="#3B2C24">异常经 cs-review 复盘定位根因，沉淀强约束规则回写知识库</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">09</text>
+  </g>
+</svg>

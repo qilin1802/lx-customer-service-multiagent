@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="header" data-pptx-bounds="60 40 1160 100">
+    <text x="60" y="74" font-family="Microsoft YaHei" font-size="16" fill="#E8590C">P0 · 一页纸速览</text>
+    <text x="60" y="122" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#3B2C24">作品简介</text>
+  </g>
+  <g id="card-1" data-pptx-bounds="60 150 370 230">
+    <rect x="60" y="150" width="370" height="230" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="88" y="196" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E8590C">项目名称</text>
+    <text x="88" y="242" font-family="Microsoft YaHei" font-size="24" fill="#3B2C24">灵犀客服</text>
+    <text x="88" y="282" font-family="Microsoft YaHei" font-size="20" fill="#8C7A6B">多 Agent 客服自主闭环系统</text>
+  </g>
+  <g id="card-2" data-pptx-bounds="455 150 370 230">
+    <rect x="455" y="150" width="370" height="230" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="483" y="196" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E8590C">问题与场景</text>
+    <text x="483" y="246" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">多渠道工单分散</text>
+    <text x="483" y="282" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">意图分类靠人工</text>
+    <text x="483" y="318" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">退款换货链路长</text>
+  </g>
+  <g id="card-3" data-pptx-bounds="850 150 370 230">
+    <rect x="850" y="150" width="370" height="230" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="878" y="196" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E8590C">核心解决方案</text>
+    <text x="878" y="246" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">6 Agent 协同闭环</text>
+    <text x="878" y="282" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">聚合 → 意图 → 执行</text>
+    <text x="878" y="318" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">核验 → 复盘 → 反哺</text>
+  </g>
+  <g id="card-4" data-pptx-bounds="60 405 370 230">
+    <rect x="60" y="405" width="370" height="230" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="88" y="451" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E8590C">创新点与差异化</text>
+    <text x="88" y="497" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">真闭环反馈</text>
+    <text x="88" y="533" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">安全可控自动化</text>
+    <text x="88" y="569" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">全透明可观测</text>
+  </g>
+  <g id="card-5" data-pptx-bounds="455 405 370 230">
+    <rect x="455" y="405" width="370" height="230" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="483" y="451" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E8590C">开放 / 复用价值</text>
+    <text x="483" y="497" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">6 个 Skill 可发布市场</text>
+    <text x="483" y="533" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">编排模式可迁移</text>
+    <text x="483" y="569" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">运维工单 / 合规审核</text>
+  </g>
+  <g id="card-6" data-pptx-bounds="850 405 370 230">
+    <rect x="850" y="405" width="370" height="230" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="878" y="451" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E8590C">当前进展</text>
+    <text x="878" y="497" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">6 个 Worker 已组队</text>
+    <text x="878" y="533" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">10 单压测跑通</text>
+    <text x="878" y="569" font-family="Microsoft YaHei" font-size="22" fill="#3B2C24">单均约 5 分钟</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">02</text>
+  </g>
+</svg>

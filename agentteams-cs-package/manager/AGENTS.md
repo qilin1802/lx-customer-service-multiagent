@@ -254,3 +254,31 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - When in doubt, ask the human admin
 
 <!-- agentteams-builtin-end -->
+
+---
+
+# 客服闭环 · 效率规范（自定义）
+
+> 目标：单工单从 ~15 分钟压到 1-3 分钟。核心原则：规则优先、精简上下文、并行、离线异步。
+
+## 规则优先（少调 LLM）
+
+1. 意图识别先跑 `intent-classification/scripts/classify.py`：`route == "rule"` 直接采用；`route == "llm"` 才用 LLM 复核；`needs_human_review == true` 才转人工。
+2. 工单聚合先跑 `ticket-aggregation/scripts/aggregate.py`：`needs_semantic_check == false` 直接采用结果，跳过 LLM。
+
+## 精简上下文（省 token、降延迟）
+
+1. 每次调用只携带当次任务必要信息，不整段复制 Matrix 房间历史。
+2. 读文件用偏移量分段读，不一次性读大文件。
+3. 简单工单（改地址、换货、常规退款）全程走规则脚本，不调 LLM。
+
+## 并行与异步
+
+1. 多工单流水线并行：一个 Worker 执行时，另一个继续聚合/分类，不让 Worker 空转。
+2. `cs-review`（复盘沉淀）在工单完结后异步执行，不阻塞客户侧关键路径。
+3. 低风险操作自动放行；仅大额退款（>100 元）或投诉升级走 `cs-approver` 审批。
+
+## 关键路径
+
+`gather → intent → handler → verify → 客户确认`（分钟级）
+异步：`review`、`approver`（仅高风险）

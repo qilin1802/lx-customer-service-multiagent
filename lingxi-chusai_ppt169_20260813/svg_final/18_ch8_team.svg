@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="section">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="chapter-tag" data-pptx-bounds="60 290 300 44">
+    <text x="60" y="324" font-family="Microsoft YaHei" font-size="22" fill="#E8590C">第八章</text>
+  </g>
+  <g id="chapter-title" data-pptx-bounds="60 330 800 100">
+    <text x="60" y="410" font-family="Microsoft YaHei" font-size="56" font-weight="bold" fill="#3B2C24">团队介绍</text>
+  </g>
+  <g id="sub" data-pptx-bounds="60 440 900 50">
+    <text x="60" y="470" font-family="Microsoft YaHei" font-size="20" fill="#8C7A6B">成员背景、分工与成果</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">18</text>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="header" data-pptx-bounds="60 40 1160 100">
+    <text x="60" y="74" font-family="Microsoft YaHei" font-size="16" fill="#E8590C">第七章 · 落地计划与进展</text>
+    <text x="60" y="122" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#3B2C24">三阶段，稳步推进</text>
+  </g>
+  <g id="stage-1" data-pptx-bounds="60 200 360 320">
+    <rect x="60" y="200" width="360" height="320" rx="14" fill="#E8590C"/>
+    <text x="90" y="250" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#F5A524">阶段一 · 已完成</text>
+    <text x="90" y="300" font-family="Microsoft YaHei" font-size="24" font-weight="bold" fill="#FFFFFF">环境部署 + 组队</text>
+    <text x="90" y="350" font-family="Microsoft YaHei" font-size="18" fill="#FFFFFF">6 Worker 创建并组队</text>
+    <text x="90" y="384" font-family="Microsoft YaHei" font-size="18" fill="#FFFFFF">端到端工单跑通</text>
+    <text x="90" y="418" font-family="Microsoft YaHei" font-size="18" fill="#FFFFFF">10 单压测完成</text>
+    <text x="90" y="452" font-family="Microsoft YaHei" font-size="18" fill="#FFFFFF">可观测接入</text>
+  </g>
+  <g id="arrow-1" data-pptx-bounds="440 340 40 40">
+    <text x="450" y="368" font-family="Microsoft YaHei" font-size="26" fill="#F5A524">→</text>
+  </g>
+  <g id="stage-2" data-pptx-bounds="480 200 360 320">
+    <rect x="480" y="200" width="360" height="320" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="510" y="250" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E8590C">阶段二 · 复赛</text>
+    <text x="510" y="300" font-family="Microsoft YaHei" font-size="24" font-weight="bold" fill="#3B2C24">业务系统 MCP 化</text>
+    <text x="510" y="350" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">Mock 业务系统封装 MCP</text>
+    <text x="510" y="384" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">知识库 RAG 检索</text>
+    <text x="510" y="418" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">可观测指标跑分</text>
+  </g>
+  <g id="arrow-2" data-pptx-bounds="860 340 40 40">
+    <text x="870" y="368" font-family="Microsoft YaHei" font-size="26" fill="#F5A524">→</text>
+  </g>
+  <g id="stage-3" data-pptx-bounds="900 200 320 320">
+    <rect x="900" y="200" width="320" height="320" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="930" y="250" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E8590C">阶段三 · 决赛</text>
+    <text x="930" y="300" font-family="Microsoft YaHei" font-size="24" font-weight="bold" fill="#3B2C24">指标量化</text>
+    <text x="930" y="350" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">自动化率 / 闭环率</text>
+    <text x="930" y="384" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">意图准确率量化</text>
+    <text x="930" y="418" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">Skill 市场发布</text>
+  </g>
+  <g id="risk" data-pptx-bounds="60 560 1160 70">
+    <rect x="60" y="560" width="1160" height="70" rx="12" fill="#FDF4E7" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/shield-check" x="90" y="580" width="26" height="26" fill="#E76F51"/>
+    <text x="132" y="600" font-family="Microsoft YaHei" font-size="18" fill="#3B2C24">风险控制：审批越权风险已通过合规复盘闭环，沉淀强约束规则</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">17</text>
+  </g>
+</svg>

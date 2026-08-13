@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="section">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="chapter-tag" data-pptx-bounds="60 260 300 44">
+    <text x="60" y="294" font-family="Microsoft YaHei" font-size="22" fill="#E8590C">第一章</text>
+  </g>
+  <g id="chapter-title" data-pptx-bounds="60 300 800 100">
+    <text x="60" y="380" font-family="Microsoft YaHei" font-size="56" font-weight="bold" fill="#3B2C24">场景与价值</text>
+  </g>
+  <g id="score-card" data-pptx-bounds="820 250 400 180">
+    <rect x="820" y="250" width="400" height="180" rx="16" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="856" y="300" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">对应评分维度</text>
+    <text x="856" y="342" font-family="Microsoft YaHei" font-size="24" font-weight="bold" fill="#3B2C24">场景价值与行业可复制性</text>
+    <text x="856" y="400" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#E8590C">25%</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">04</text>
+  </g>
+</svg>

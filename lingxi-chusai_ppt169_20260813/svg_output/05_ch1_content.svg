@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="header" data-pptx-bounds="60 40 1160 100">
+    <text x="60" y="74" font-family="Microsoft YaHei" font-size="16" fill="#E8590C">第一章 · 场景与价值</text>
+    <text x="60" y="122" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#3B2C24">客服在人海，经验在人脑</text>
+  </g>
+  <g id="pain-1" data-pptx-bounds="60 150 560 105">
+    <rect x="60" y="150" width="560" height="105" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/message-circle" x="88" y="174" width="32" height="32" fill="#E8590C"/>
+    <text x="140" y="192" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">多渠道工单分散</text>
+    <text x="140" y="226" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">邮件 / 在线客服 / 电话 / 社媒，入口割裂</text>
+  </g>
+  <g id="pain-2" data-pptx-bounds="60 270 560 105">
+    <rect x="60" y="270" width="560" height="105" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/alert-triangle" x="88" y="294" width="32" height="32" fill="#F5A524"/>
+    <text x="140" y="312" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">意图分类靠人工</text>
+    <text x="140" y="346" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">分类依赖经验，新人上手慢</text>
+  </g>
+  <g id="pain-3" data-pptx-bounds="60 390 560 105">
+    <rect x="60" y="390" width="560" height="105" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/git-branch" x="88" y="414" width="32" height="32" fill="#E76F51"/>
+    <text x="140" y="432" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">退款换货链路长</text>
+    <text x="140" y="466" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">执行环节多，状态不可追溯</text>
+  </g>
+  <g id="pain-4" data-pptx-bounds="60 510 560 105">
+    <rect x="60" y="510" width="560" height="105" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/database" x="88" y="534" width="32" height="32" fill="#8C7A6B"/>
+    <text x="140" y="552" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">知识沉淀断层</text>
+    <text x="140" y="586" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">复盘知识无处沉淀，离职即失忆</text>
+  </g>
+  <g id="value-card" data-pptx-bounds="660 150 560 465">
+    <rect x="660" y="150" width="560" height="465" rx="16" fill="#E8590C"/>
+    <text x="700" y="210" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#FFFFFF">可量化的价值收益</text>
+    <text x="700" y="286" font-family="Microsoft YaHei" font-size="20" fill="#FFFFFF">日处理工单量</text>
+    <text x="700" y="330" font-family="Microsoft YaHei" font-size="48" font-weight="bold" fill="#FFFFFF">2000</text>
+    <text x="820" y="330" font-family="Microsoft YaHei" font-size="20" fill="#FFFFFF">单</text>
+    <text x="700" y="400" font-family="Microsoft YaHei" font-size="20" fill="#FFFFFF">可自动化比例</text>
+    <text x="700" y="444" font-family="Microsoft YaHei" font-size="48" font-weight="bold" fill="#F5A524">70%</text>
+    <text x="700" y="512" font-family="Microsoft YaHei" font-size="20" fill="#FFFFFF">每月释放人力</text>
+    <text x="700" y="556" font-family="Microsoft YaHei" font-size="48" font-weight="bold" fill="#FFFFFF">700</text>
+    <text x="812" y="556" font-family="Microsoft YaHei" font-size="20" fill="#FFFFFF">人天</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">05</text>
+  </g>
+</svg>

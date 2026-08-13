@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="header" data-pptx-bounds="60 40 1160 100">
+    <text x="60" y="74" font-family="Microsoft YaHei" font-size="16" fill="#E8590C">第四章 · Skill 工程体系</text>
+    <text x="60" y="122" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#3B2C24">6 个 Skill，9 要素规格</text>
+  </g>
+  <g id="skill-1" data-pptx-bounds="60 160 370 150">
+    <rect x="60" y="160" width="370" height="150" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/message-circle -->
+  <g transform="translate(88, 186) scale(1.25)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M3 20l1.3 -3.9c-2.324 -3.437 -1.426 -7.872 2.1 -10.374c3.526 -2.501 8.59 -2.296 11.845 .48c3.255 2.777 3.695 7.266 1.029 10.501c-2.666 3.235 -7.615 4.215 -11.574 2.293l-4.7 1" />
+  </g>
+    <text x="134" y="210" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">ticket-aggregation</text>
+    <text x="88" y="250" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">工单聚合去重</text>
+    <text x="88" y="280" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">三级去重 + bigram 相似度</text>
+  </g>
+  <g id="skill-2" data-pptx-bounds="455 160 370 150">
+    <rect x="455" y="160" width="370" height="150" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/sparkles -->
+  <g transform="translate(483, 186) scale(1.25)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M16 18a2 2 0 0 1 2 2a2 2 0 0 1 2 -2a2 2 0 0 1 -2 -2a2 2 0 0 1 -2 2m0 -12a2 2 0 0 1 2 2a2 2 0 0 1 2 -2a2 2 0 0 1 -2 -2a2 2 0 0 1 -2 2m-7 12a6 6 0 0 1 6 -6a6 6 0 0 1 -6 -6a6 6 0 0 1 -6 6a6 6 0 0 1 6 6" />
+  </g>
+    <text x="529" y="210" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">intent-classification</text>
+    <text x="483" y="250" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">意图识别分级</text>
+    <text x="483" y="280" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">规则优先 + 三级路由</text>
+  </g>
+  <g id="skill-3" data-pptx-bounds="850 160 370 150">
+    <rect x="850" y="160" width="370" height="150" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/tool -->
+  <g transform="translate(878, 186) scale(1.25)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M7 10h3v-3l-3.5 -3.5a6 6 0 0 1 8 8l6 6a2 2 0 0 1 -3 3l-6 -6a6 6 0 0 1 -8 -8l3.5 3.5" />
+  </g>
+    <text x="924" y="210" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">solution-generation</text>
+    <text x="878" y="250" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">方案生成</text>
+    <text x="878" y="280" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">金额阈值 + 审批等级</text>
+  </g>
+  <g id="skill-4" data-pptx-bounds="60 340 370 150">
+    <rect x="60" y="340" width="370" height="150" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/git-branch -->
+  <g transform="translate(88, 366) scale(1.25)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M5 18a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M5 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M15 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M7 8l0 8" />
+    <path d="M9 18h6a2 2 0 0 0 2 -2v-5" />
+    <path d="M14 14l3 -3l3 3" />
+  </g>
+    <text x="134" y="390" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">operation-execution</text>
+    <text x="88" y="430" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">业务操作执行</text>
+    <text x="88" y="460" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">幂等键 + 重试 + 回滚</text>
+  </g>
+  <g id="skill-5" data-pptx-bounds="455 340 370 150">
+    <rect x="455" y="340" width="370" height="150" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/check -->
+  <g transform="translate(483, 366) scale(1.25)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M5 12l5 5l10 -10" />
+  </g>
+    <text x="529" y="390" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">result-verification</text>
+    <text x="483" y="430" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">结果核验</text>
+    <text x="483" y="460" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">执行比对 + 满意度解析</text>
+  </g>
+  <g id="skill-6" data-pptx-bounds="850 340 370 150">
+    <rect x="850" y="340" width="370" height="150" rx="12" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/refresh -->
+  <g transform="translate(878, 366) scale(1.25)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
+    <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4" />
+  </g>
+    <text x="924" y="390" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#3B2C24">knowledge-distillation</text>
+    <text x="878" y="430" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">复盘沉淀</text>
+    <text x="878" y="460" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">FAQ 提炼 + 知识回写</text>
+  </g>
+  <g id="note" data-pptx-bounds="60 530 1160 100">
+    <rect x="60" y="530" width="1160" height="90" rx="12" fill="#FDF4E7" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="90" y="568" font-family="Microsoft YaHei" font-size="20" font-weight="bold" fill="#E8590C">每个 Skill 均含 9 要素规格</text>
+    <text x="90" y="600" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">名称 / 用途 / 输入输出 / 调用条件 / 依赖工具 / 失败处理 / 安全边界 / 复用价值 / 协同关系</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">11</text>
+  </g>
+</svg>

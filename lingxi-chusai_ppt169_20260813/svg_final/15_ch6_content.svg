@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="header" data-pptx-bounds="60 40 1160 100">
+    <text x="60" y="74" font-family="Microsoft YaHei" font-size="16" fill="#E8590C">第六章 · 开放 / 开源计划</text>
+    <text x="60" y="122" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#3B2C24">代码开源，Skill 进市场</text>
+  </g>
+  <g id="card-1" data-pptx-bounds="60 180 370 300">
+    <rect x="60" y="180" width="370" height="300" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/file-text -->
+  <g transform="translate(90, 212) scale(1.5)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="90" y="288" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">可部署代码包</text>
+    <text x="90" y="330" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">agentteams-cs-package</text>
+    <text x="90" y="362" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">env 配置 + Manager/Worker</text>
+    <text x="90" y="394" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">身份快照 + 6 个 Skill</text>
+  </g>
+  <g id="card-2" data-pptx-bounds="455 180 370 300">
+    <rect x="455" y="180" width="370" height="300" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/tool -->
+  <g transform="translate(485, 212) scale(1.5)" fill="none" stroke="#F5A524" stroke-width="2">
+    <path d="M7 10h3v-3l-3.5 -3.5a6 6 0 0 1 8 8l6 6a2 2 0 0 1 -3 3l-6 -6a6 6 0 0 1 -8 -8l3.5 3.5" />
+  </g>
+    <text x="485" y="288" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">Skill 发布市场</text>
+    <text x="485" y="330" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">6 个客服 Skill 沉淀</text>
+    <text x="485" y="362" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">发布 AgentTeams 市场</text>
+    <text x="485" y="394" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">其他企业直接导入</text>
+  </g>
+  <g id="card-3" data-pptx-bounds="850 180 370 300">
+    <rect x="850" y="180" width="370" height="300" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/git-branch -->
+  <g transform="translate(880, 212) scale(1.5)" fill="none" stroke="#E76F51" stroke-width="2">
+    <path d="M5 18a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M5 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M15 6a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M7 8l0 8" />
+    <path d="M9 18h6a2 2 0 0 0 2 -2v-5" />
+    <path d="M14 14l3 -3l3 3" />
+  </g>
+    <text x="880" y="288" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">编排模式可迁移</text>
+    <text x="880" y="330" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">电商客服</text>
+    <text x="880" y="362" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">运维工单 / 合规审核</text>
+    <text x="880" y="394" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">本地私有化部署</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">15</text>
+  </g>
+</svg>

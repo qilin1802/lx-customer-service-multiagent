@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="accent-top" data-pptx-bounds="0 0 1280 12">
+    <rect x="0" y="0" width="1280" height="12" fill="#E8590C"/>
+  </g>
+  <g id="kicker" data-pptx-bounds="120 236 1040 40">
+    <text x="640" y="260" font-family="Microsoft YaHei" font-size="22" fill="#8C7A6B" text-anchor="middle">GOAI 智能客服自主闭环赛道 · 参赛作品</text>
+  </g>
+  <g id="title-block" data-pptx-bounds="120 300 1040 210">
+    <text x="640" y="410" font-family="Microsoft YaHei" font-size="92" font-weight="bold" fill="#3B2C24" text-anchor="middle">灵犀客服</text>
+    <text x="640" y="480" font-family="Microsoft YaHei" font-size="34" fill="#E8590C" text-anchor="middle">多 Agent 智能客服自主闭环系统</text>
+  </g>
+  <g id="divider" data-pptx-bounds="560 536 160 4">
+    <rect x="560" y="536" width="160" height="4" rx="2" fill="#F5A524"/>
+  </g>
+  <g id="note" data-pptx-bounds="120 576 1040 56">
+    <text x="640" y="606" font-family="Microsoft YaHei" font-size="20" fill="#8C7A6B" text-anchor="middle">从多渠道工单聚合到知识沉淀反哺 —— 基于 AgentTeams 的 6 智能体客服闭环</text>
+  </g>
+</svg>

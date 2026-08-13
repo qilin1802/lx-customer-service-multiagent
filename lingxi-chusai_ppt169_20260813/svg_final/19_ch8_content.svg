@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="header" data-pptx-bounds="60 40 1160 100">
+    <text x="60" y="74" font-family="Microsoft YaHei" font-size="16" fill="#E8590C">第八章 · 团队介绍</text>
+    <text x="60" y="122" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#3B2C24">团队成员</text>
+  </g>
+  <g id="member-1" data-pptx-bounds="60 180 560 200">
+    <rect x="60" y="180" width="560" height="200" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/users -->
+  <g transform="translate(90, 210) scale(1.5)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="90" y="284" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">成员一</text>
+    <text x="90" y="322" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">学校 / 公司 · 岗位 / 专业</text>
+    <text x="90" y="352" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">核心技能：待填写</text>
+  </g>
+  <g id="member-2" data-pptx-bounds="660 180 560 200">
+    <rect x="660" y="180" width="560" height="200" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/users -->
+  <g transform="translate(690, 210) scale(1.5)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="690" y="284" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">成员二</text>
+    <text x="690" y="322" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">学校 / 公司 · 岗位 / 专业</text>
+    <text x="690" y="352" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">核心技能：待填写</text>
+  </g>
+  <g id="member-3" data-pptx-bounds="60 410 560 200">
+    <rect x="60" y="410" width="560" height="200" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/users -->
+  <g transform="translate(90, 440) scale(1.5)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="90" y="514" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">成员三</text>
+    <text x="90" y="552" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">学校 / 公司 · 岗位 / 专业</text>
+    <text x="90" y="582" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">核心技能：待填写</text>
+  </g>
+  <g id="member-4" data-pptx-bounds="660 410 560 200">
+    <rect x="660" y="410" width="560" height="200" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <!-- icon: tabler-outline/users -->
+  <g transform="translate(690, 440) scale(1.5)" fill="none" stroke="#E8590C" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="690" y="514" font-family="Microsoft YaHei" font-size="22" font-weight="bold" fill="#3B2C24">成员四</text>
+    <text x="690" y="552" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">学校 / 公司 · 岗位 / 专业</text>
+    <text x="690" y="582" font-family="Microsoft YaHei" font-size="17" fill="#8C7A6B">核心技能：待填写</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">19</text>
+  </g>
+</svg>

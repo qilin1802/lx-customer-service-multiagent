@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="header" data-pptx-bounds="60 40 1160 100">
+    <text x="60" y="74" font-family="Microsoft YaHei" font-size="16" fill="#E8590C">第二章 · 方案总览</text>
+    <text x="60" y="122" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#3B2C24">四层架构，一条闭环</text>
+  </g>
+  <g id="layer-1" data-pptx-bounds="60 190 260 300">
+    <rect x="60" y="190" width="260" height="300" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/message-circle" x="90" y="220" width="36" height="36" fill="#E8590C"/>
+    <text x="90" y="292" font-family="Microsoft YaHei" font-size="24" font-weight="bold" fill="#3B2C24">接入层</text>
+    <text x="90" y="332" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">cs-gather</text>
+    <text x="90" y="362" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">多渠道消息聚合去重</text>
+  </g>
+  <g id="arrow-1" data-pptx-bounds="330 320 50 40">
+    <text x="340" y="350" font-family="Microsoft YaHei" font-size="28" fill="#F5A524">→</text>
+  </g>
+  <g id="layer-2" data-pptx-bounds="380 190 260 300">
+    <rect x="380" y="190" width="260" height="300" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/git-branch" x="410" y="220" width="36" height="36" fill="#E8590C"/>
+    <text x="410" y="292" font-family="Microsoft YaHei" font-size="24" font-weight="bold" fill="#3B2C24">编排层</text>
+    <text x="410" y="332" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">Manager-Worker</text>
+    <text x="410" y="362" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">Matrix 房间协同</text>
+  </g>
+  <g id="arrow-2" data-pptx-bounds="650 320 50 40">
+    <text x="660" y="350" font-family="Microsoft YaHei" font-size="28" fill="#F5A524">→</text>
+  </g>
+  <g id="layer-3" data-pptx-bounds="700 190 260 300">
+    <rect x="700" y="190" width="260" height="300" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/tool" x="730" y="220" width="36" height="36" fill="#E8590C"/>
+    <text x="730" y="292" font-family="Microsoft YaHei" font-size="24" font-weight="bold" fill="#3B2C24">执行层</text>
+    <text x="730" y="332" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">Skill + MCP + RAG</text>
+    <text x="730" y="362" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">方案生成与业务执行</text>
+  </g>
+  <g id="arrow-3" data-pptx-bounds="970 320 50 40">
+    <text x="980" y="350" font-family="Microsoft YaHei" font-size="28" fill="#F5A524">→</text>
+  </g>
+  <g id="layer-4" data-pptx-bounds="1020 190 200 300">
+    <rect x="1020" y="190" width="200" height="300" rx="14" fill="#FFFFFF" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/stack" x="1050" y="220" width="36" height="36" fill="#E8590C"/>
+    <text x="1050" y="292" font-family="Microsoft YaHei" font-size="24" font-weight="bold" fill="#3B2C24">沉淀层</text>
+    <text x="1050" y="332" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">知识库回写</text>
+    <text x="1050" y="362" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">反馈回路</text>
+  </g>
+  <g id="loop-note" data-pptx-bounds="60 540 1160 100">
+    <rect x="60" y="540" width="1160" height="90" rx="12" fill="#FDF4E7" stroke="#F0E0CC" stroke-width="1"/>
+    <use data-icon="tabler-outline/refresh" x="90" y="568" width="28" height="28" fill="#E76F51"/>
+    <text x="134" y="590" font-family="Microsoft YaHei" font-size="20" fill="#3B2C24">端到端闭环：多渠道输入 → 意图分级 → 方案执行（含审批）→ 核验确认 → 复盘沉淀 → 知识反哺</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">07</text>
+  </g>
+</svg>

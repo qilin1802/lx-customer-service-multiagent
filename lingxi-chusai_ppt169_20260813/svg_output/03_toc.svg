@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="toc">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FDF4E7"/>
+  <g id="header" data-pptx-bounds="60 40 1160 100">
+    <text x="60" y="74" font-family="Microsoft YaHei" font-size="16" fill="#E8590C">目录</text>
+    <text x="60" y="124" font-family="Microsoft YaHei" font-size="40" font-weight="bold" fill="#3B2C24">内容框架</text>
+  </g>
+  <g id="toc-1" data-pptx-bounds="60 170 560 100">
+    <text x="60" y="214" font-family="Microsoft YaHei" font-size="32" font-weight="bold" fill="#E8590C">01</text>
+    <text x="124" y="214" font-family="Microsoft YaHei" font-size="28" fill="#3B2C24">场景与价值</text>
+    <text x="380" y="214" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">25%</text>
+  </g>
+  <g id="toc-2" data-pptx-bounds="60 280 560 100">
+    <text x="60" y="324" font-family="Microsoft YaHei" font-size="32" font-weight="bold" fill="#E8590C">02</text>
+    <text x="124" y="324" font-family="Microsoft YaHei" font-size="28" fill="#3B2C24">方案总览</text>
+  </g>
+  <g id="toc-3" data-pptx-bounds="60 390 560 100">
+    <text x="60" y="434" font-family="Microsoft YaHei" font-size="32" font-weight="bold" fill="#E8590C">03</text>
+    <text x="124" y="434" font-family="Microsoft YaHei" font-size="28" fill="#3B2C24">多 Agent 协同设计</text>
+    <text x="420" y="434" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">25%</text>
+  </g>
+  <g id="toc-4" data-pptx-bounds="60 500 560 100">
+    <text x="60" y="544" font-family="Microsoft YaHei" font-size="32" font-weight="bold" fill="#E8590C">04</text>
+    <text x="124" y="544" font-family="Microsoft YaHei" font-size="28" fill="#3B2C24">Skill 工程体系</text>
+    <text x="380" y="544" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">25%</text>
+  </g>
+  <g id="toc-5" data-pptx-bounds="660 170 560 100">
+    <text x="660" y="214" font-family="Microsoft YaHei" font-size="32" font-weight="bold" fill="#E8590C">05</text>
+    <text x="724" y="214" font-family="Microsoft YaHei" font-size="28" fill="#3B2C24">工程落地与安全可审计</text>
+    <text x="1080" y="214" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">20%</text>
+  </g>
+  <g id="toc-6" data-pptx-bounds="660 280 560 100">
+    <text x="660" y="324" font-family="Microsoft YaHei" font-size="32" font-weight="bold" fill="#E8590C">06</text>
+    <text x="724" y="324" font-family="Microsoft YaHei" font-size="28" fill="#3B2C24">开放 / 开源计划</text>
+    <text x="1080" y="324" font-family="Microsoft YaHei" font-size="18" fill="#8C7A6B">5%</text>
+  </g>
+  <g id="toc-7" data-pptx-bounds="660 390 560 100">
+    <text x="660" y="434" font-family="Microsoft YaHei" font-size="32" font-weight="bold" fill="#E8590C">07</text>
+    <text x="724" y="434" font-family="Microsoft YaHei" font-size="28" fill="#3B2C24">落地计划与进展</text>
+  </g>
+  <g id="toc-8" data-pptx-bounds="660 500 560 100">
+    <text x="660" y="544" font-family="Microsoft YaHei" font-size="32" font-weight="bold" fill="#E8590C">08</text>
+    <text x="724" y="544" font-family="Microsoft YaHei" font-size="28" fill="#3B2C24">团队介绍</text>
+  </g>
+  <g id="footer" data-pptx-bounds="60 680 1160 30">
+    <line x1="60" y1="682" x2="1220" y2="682" stroke="#F0E0CC" stroke-width="1"/>
+    <text x="60" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B">灵犀客服</text>
+    <text x="1220" y="706" font-family="Microsoft YaHei" font-size="14" fill="#8C7A6B" text-anchor="end">03</text>
+  </g>
+</svg>
