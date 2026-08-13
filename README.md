@@ -7,16 +7,15 @@ GOAI 智能客服自主闭环赛道参赛作品。基于 AgentTeams（HiClaw）�
 ```
 ├── README.md                    # 本文件
 ├── 作品简介.md                  # 初赛 500 字作品简介
-├── PPT填表指南.md               # 对照官方模板的逐章填表指南
-├── ppt示例.pptx                 # 官方初赛方案 PPT 模板
-├── 屏幕截图 2026-08-13 *.png    # 运行/监控截图
+├── 灵犀客服.pptx                # 初赛方案 PPT（19 页暖色版，主交付物）
 │
 ├── agentteams-cs-package/       # 可执行部署代码包
-    ├── deploy/                  # 控制器/Manager env 配置
-    ├── manager/                 # Manager 身份/规范/状态快照
-    ├── workers/                 # 6 个 Worker 的 SOUL.md（Agent Identity 清单）
-    └── skills/                  # 6 个核心 Skill（SKILL.md + 脚本）
-
+│   ├── deploy/                  # 控制器/Manager env 配置
+│   ├── manager/                 # Manager 身份/规范/状态快照
+│   ├── workers/                 # 6 个 Worker 的 SOUL.md（Agent Identity 清单）
+│   └── skills/                  # 6 个核心 Skill（SKILL.md + 脚本）
+│
+└── 灵犀客服-比赛PPT/            # 初赛 PPT 生成工程（ppt-master：SVG 源 + 导出）
 ```
 
 ## 多 Agent 系统
